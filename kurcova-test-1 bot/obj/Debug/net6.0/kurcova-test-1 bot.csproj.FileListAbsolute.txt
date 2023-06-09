@@ -1,0 +1,40 @@
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.exe
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.deps.json
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.runtimeconfig.json
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.pdb
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Npgsql.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Telegram.Bot.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.AssemblyReference.cache
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.AssemblyInfoInputs.cache
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.AssemblyInfo.cs
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.CoreCompileInputs.cache
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.CopyComplete
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\refint\kurcova-test-1 bot.dll
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.pdb
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.genruntimeconfig.cache
+E:\Навчання\programing\2 семестр\Курсова робота\Чужа курсова робота\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\ref\kurcova-test-1 bot.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.exe
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.deps.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.runtimeconfig.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\kurcova-test-1 bot.pdb
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.AssemblyReference.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.AssemblyInfoInputs.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.AssemblyInfo.cs
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.csproj.CopyComplete
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\refint\kurcova-test-1 bot.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.pdb
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\kurcova-test-1 bot.genruntimeconfig.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\kurcova-test-1 bot\kurcova-test-1 bot\obj\Debug\net6.0\ref\kurcova-test-1 bot.dll

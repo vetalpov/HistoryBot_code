@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTQHRvDvRonOhaZd4xhHuzr/UoThrIj/9YtQzjPDUG7AfMzZdt1gvi2fOoPIvgYoLA2oDQBt1fzaWUgc5aGO8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Користувач\\OneDrive\\Робочий стіл\\Курсач\\kurcova-test-1 bot\\kurcova-test-1 bot\\kurcova-test-1 bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Користувач\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Користувач\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Користувач\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Користувач\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Користувач\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
